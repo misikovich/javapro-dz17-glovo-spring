@@ -4,7 +4,6 @@ import com.misikovich.javaprodz17glovospring.converter.ProductConverter;
 import com.misikovich.javaprodz17glovospring.entity.ProductEntity;
 import com.misikovich.javaprodz17glovospring.model.ProductModel;
 import com.misikovich.javaprodz17glovospring.repository.ProductRepository;
-import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

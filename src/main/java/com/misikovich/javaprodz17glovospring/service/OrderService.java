@@ -5,7 +5,6 @@ import com.misikovich.javaprodz17glovospring.entity.OrderEntity;
 import com.misikovich.javaprodz17glovospring.model.OrderModel;
 import com.misikovich.javaprodz17glovospring.model.ProductModel;
 import com.misikovich.javaprodz17glovospring.repository.OrderRepository;
-import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

@@ -1,6 +1,5 @@
 package com.misikovich.javaprodz17glovospring.model;
 
-import com.misikovich.javaprodz17glovospring.entity.ProductEntity;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
